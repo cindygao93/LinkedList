@@ -1,8 +1,3 @@
-##Assignment 4
-##Name: Cindy Gao
-##Student Number: 10026799
-
-
 
 """
 Creates and returns a linked list containing all of the elements
